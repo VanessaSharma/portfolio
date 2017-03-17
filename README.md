@@ -1,16 +1,21 @@
-##Portfolio Website
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
 
 
-## Getting Started
+# Portfolio Website
 
 
 ## Bugs and Issues
-
+None known.
 
 
 ## Creator
+Vanessa Palacios Sharma
 
 
-
-## Copyright and License
+## Technologies 
+*JavaScript
+*JQuery
+*HTML
+*CSS
+*BOOTSTRAP
+*PHP
+*Responsive Design
